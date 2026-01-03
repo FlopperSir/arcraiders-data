@@ -9,7 +9,7 @@
     "no": "Gassmine",
     "da": "Gasmine",
     "it": "Mina a gas",
-    "ja": "ガス地雷",
+    "ja": "ジャンプ地雷：時間経過スタミナダメージ",
     "kr": "가스 지뢰",
     "zh-CN": "毒气地雷",
     "zh-TW": "毒氣地雷",
@@ -114,6 +114,13 @@
     "chemicals": 1,
     "rubber_parts": 1
   },
+  "recipe": {
+    "chemicals": 4,
+    "rubber_parts": 2
+  },
+  "craftBench": "explosives_bench",
+  "stationLevelRequired": 1,
+  "blueprintLocked": true,
   "imageFilename": "https://cdn.arctracker.io/items/gas_mine.png",
-  "updatedAt": "11/13/2025"
+  "updatedAt": "12/25/2025"
 }
